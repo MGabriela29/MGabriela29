@@ -1,4 +1,4 @@
-# 👋 ¡Hola a todos! Soy Grabiela Hernandez 
+# 👋 ¡Hola a todos! Soy Gabriela Hernandez 
 
 ¡Bienvenidos a mi perfil de GitHub! Soy **estudiante en Desarrollo Web Multiplataforma**, apasionada por la **creación de soluciones web innovadoras y el aprendizaje continuo en el ámbito tecnológico**.
 
